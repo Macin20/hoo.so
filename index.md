@@ -4,12 +4,13 @@ HSC虎符智能链是一条去中心化高效节能公链，坚持“技术过�
 
 ## 教程
 
+这里还有一个比较有用的网站，[eAPY.com]()包含了上线虎符智能链的所有项目，还能横向对比一些数据。大家可以收藏一下。
+
 1. [如何创建HSC钱包地址](https://www.wolai.com/hoosmartchain/vBaGK9DjAeRHLzTxzMDigk)
 2. [如何购买HSC主网gas费](https://www.youtube.com/watch?v=06Xv-Pm_0vc)
 3. [如何将Heco钱包里的USDT转入HSC地址](https://www.wolai.com/hoosmartchain/4k7vZRBsZQfjZrEycpxT5T)
 4. [如何使用HooScan查询链上信息](https://www.wolai.com/hoosmartchain/qPT9VEXn1hfJTz4TPySnVx)
 
-这里还有一个比较有用的网站，[eAPY.com]()包含了上线虎符智能链的所有项目，还能横向对比一些数据。大家可以收藏一下。
 
 还有一份资料库也挺全面的。[HSC虎符智能链资料库](https://www.wolai.com/hoosmartchain/x4m5vBGEvnDr8i2AhyCt6u)，强烈建议收藏！
 
