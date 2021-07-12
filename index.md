@@ -14,7 +14,7 @@ HSC虎符智能链是一条去中心化高效节能公链，坚持“技术过�
 
 还有一份资料库也挺全面的。[HSC虎符智能链资料库](https://www.wolai.com/hoosmartchain/x4m5vBGEvnDr8i2AhyCt6u)，强烈建议收藏！
 
-虎符交易所在这波DeFi牛市中发展势头非常猛，也是基于对DeFi的理解，虎符交易所发起了HSC主网，虎符交易所注册链接：[hoo.com](https://www.hoo.as/invite/17984573?localeLang=zh-hans&)
+**虎符交易所**在这波DeFi牛市中发展势头非常猛，也是基于对DeFi的理解，虎符交易所发起了HSC主网，虎符交易所注册链接：[hoo.com](https://www.hoo.as/invite/17984573?localeLang=zh-hans&)
 
 
 ## 项目列表
